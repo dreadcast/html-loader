@@ -59,7 +59,7 @@ Built at: 08/02/2019 14:37:29
    img.png    1.9 KiB          [emitted]
 index.html  362 bytes          [emitted]
   index.js    342 KiB   index  [emitted]  index
-  {   MISSING bundle.bundle.js HERE   }
+  **********************************************    {   MISSING bundle.bundle.js HERE   }
 window.css  125 bytes          [emitted]
 Entrypoint index = index.js
 [0] multi (webpack)-dev-server/client?http://localhost:8078 index.js 40 bytes {index} [built]
